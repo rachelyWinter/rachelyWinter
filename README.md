@@ -10,7 +10,9 @@ Feel free to contact me at [r0583273805@gmail.com](mailto:r0583273805@gmail.com)
 
 ### Languages 
 ## client side
+
 [![My Skills](https://skillicons.dev/icons?i=html ,css ,js ,react ,angular)](https://skillicons.dev)
+
 ## server side
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,c,cs,cpp,py,)](https://skillicons.dev)
 
