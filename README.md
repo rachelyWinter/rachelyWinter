@@ -8,9 +8,14 @@ Feel free to contact me at [r0583273805@gmail.com](mailto:r0583273805@gmail.com)
 ### Connect with Me
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:r0583273805@gmail.com)
 
-### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,gcp,react,git,docker,angular,c,cs,cpp,css,dotnet,eclipse,github,html,materialui,mongodb,pycharm,py,visualstudio,vscode,)](https://skillicons.dev)
+### Languages 
+## client side
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular)]
+## server side
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,c,cs,cpp,py,)]
 
+### Tools 
+[![My Skills](https://skillicons.dev/icons?i=gcp,git,docker,)](https://skillicons.dev)
 ### My GitHub Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachelyWinter&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelyWinter&layout=compact&theme=radical)
