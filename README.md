@@ -9,13 +9,13 @@ Feel free to contact me at [r0583273805@gmail.com](mailto:r0583273805@gmail.com)
 ### Languages 
 ## client side
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular&perline=1)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular&perline=10)]()
 
 ## server side
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,c,cs,cpp,py&perline=1)]
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,c,cs,cpp,py&perline=10)]()
 
 ### Tools 
-[![My Skills](https://skillicons.dev/icons?i=gcp,git,docker&perline=1)]
+[![My Skills](https://skillicons.dev/icons?i=gcp,git,docker&perline=10)]()
 
 ### My GitHub Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachelyWinter&show_icons=true&theme=radical)
