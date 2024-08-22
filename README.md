@@ -2,8 +2,7 @@
 
 ### About Me
 A software developer who loves to code and loves to do well, and especially loves the combination of the two ✨
-/*### 👨‍💻 My Projects
-- 🌟 All of my projects are available on [My GitHub Profile](https://github.com/ayelet326).*/
+
 
 ### 📫 How to Reach Me
 Feel free to contact me at [r0583273805@gmail.com](mailto:r0583273805@gmail.com) or connect with me on Discord: **OskarMast#8877**.
