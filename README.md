@@ -6,8 +6,7 @@ A software developer who loves to code and loves to do well, and especially love
 Feel free to contact me at [r0583273805@gmail.com](mailto:r0583273805@gmail.com) or connect with me on Discord: **OskarMast#8877**.
 
 ### Connect with Me
-[![Gmail Badge](https://img.shields.io/badge/-r0583273805@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:r0583273805@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-OskarMast%238877-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/)
+[![Gmail Badge(https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)(mailto:r0583273805@gmail.com)
 
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,gcp,react,git,docker,angular,c,cs,cpp,css,dotnet,eclipse,github,html,materialui,mongodb,pycharm,py,visualstudio,vscode,)](https://skillicons.dev)
