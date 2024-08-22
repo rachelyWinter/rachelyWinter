@@ -6,7 +6,7 @@ A software developer who loves to code and loves to do well, and especially love
 Feel free to contact me at [r0583273805@gmail.com](mailto:r0583273805@gmail.com) or connect with me on Discord: **OskarMast#8877**.
 
 ### Connect with Me
-[![My Skills](https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:r0583273805@gmail.com))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:r0583273805@gmail.com))]
 
 
 ### Languages and Tools
