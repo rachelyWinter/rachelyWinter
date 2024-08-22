@@ -15,7 +15,7 @@ A software developer who loves to code and loves to do well, and especially love
 
 # Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,git,docker&perline=3)]()
+[![My Skills](https://skillicons.dev/icons?i=gcp,git,github,docker&perline=13)]()
 
 ### IDEs 
 
