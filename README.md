@@ -3,7 +3,7 @@
 ### Connect with Me
 <a href="r0583273805@gmail.com">[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:r0583273805@gmail.com)</a>
 <br>
-
+r0583273805@gmail.com
 # Languages 
 
 ### client side
