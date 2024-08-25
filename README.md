@@ -16,11 +16,19 @@
 
 # Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,git,github,docker&perline=13)]()
-
-### IDEs 
+[![My Skills](https://skillicons.dev/icons?i=gcp,postman,git,github,docker&perline=13)]()
+### dataBases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,github,docker&perline=13)]()
+# IDEs 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm&perline=6)]()
+
+
+# Additional skills 
+#### In my second hat, I am a professional video editor with a lot of experience.
+#### It's a different world from programming but there are many parallel things...
+
+[![My Skills](https://skillicons.dev/icons?i=pr,ae&perline=6)]()
 
 ### My GitHub Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachelyWinter&show_icons=true&theme=light)
