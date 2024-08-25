@@ -24,7 +24,7 @@ r0583273805@gmail.com
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm&perline=6)]()
 
 
-# Additional skills 
+## Additional skills 
 #### In my second hat, I am a professional video editor with a lot of experience.
 #### It's a different world from programming but there are many parallel things...
 
