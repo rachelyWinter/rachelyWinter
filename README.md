@@ -18,7 +18,7 @@ r0583273805@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,postman,git,github,docker&perline=13)]()
 ### dataBases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,github,docker&perline=13)]()
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,sqlite&perline=13)]()
 # IDEs 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm&perline=6)]()
